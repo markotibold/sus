@@ -1,6 +1,3 @@
-// cd /Users/<username>/Library/Application\ Support/Sublime\ Text\ 2/Packages/User 
-// git clone tjis repo
-//ln -s sublime-user-settings/Preferences.sublime-settings Preferences.sublime-settings 
 {
 	"font_size": 13.0,
     "find_selected_text": true,
