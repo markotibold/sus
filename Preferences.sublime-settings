@@ -5,8 +5,8 @@
     "ignored_packages": [],
     "highlight_modified_tabs": true,
     "shift_tab_unindent": true,
-    "auto_complete_commit_on_tab": true,
     "translate_tabs_to_spaces": true,
     "ensure_newline_at_eof_on_save": true,
-    "tab_size": 4
+    "tab_size": 4,
+    "spell_check": true
 }
