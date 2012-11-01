@@ -8,5 +8,6 @@
     "translate_tabs_to_spaces": true,
     "ensure_newline_at_eof_on_save": true,
     "tab_size": 4,
-    "spell_check": true
+    "spell_check": true,
+    "sublimelinter": "save_only"
 }
